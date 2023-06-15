@@ -602,6 +602,8 @@ footer {
     }
     .social-network {
         margin-top: 31px;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
         width: 200px;
     }
     .social-network a:nth-child(2),
